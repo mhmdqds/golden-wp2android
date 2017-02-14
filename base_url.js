@@ -1,0 +1,1 @@
+var url = "http://goldentower-ye.com/wp-content/plugins/wp2android-turn-wp-site-into-android-app/";
